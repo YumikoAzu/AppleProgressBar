@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AppleProgressBar">
+        <attr name="barColor" format="color"/>
+        <attr name="circleWidth" format="dimension"/>
+        <attr name="speed" format="integer"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>
