@@ -16,6 +16,6 @@
         apple:barColor="#1976D2"
         apple:circleWidth="2dp"
         apple:radius="25dp"
-        apple:speed="2"/>
+        apple:speed="30"/>
 
 </RelativeLayout>
